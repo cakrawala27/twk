@@ -1,0 +1,5 @@
+##     MNCTV | RCTI+     ##
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://gaatvplus.000webhostapp.com/Img/mnctv.png" group-title="Nusantara",MNCTV | R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
