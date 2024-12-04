@@ -1,0 +1,36 @@
+##     RCTI | RCTI+    ##
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://gaatvplus.000webhostapp.com/Img/rcti.png" group-title="Nusantara",RCTI | ER
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+
+##     RCTI | Visionplus     ##
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://gaatvplus.000webhostapp.com/Img/rcti.png" group-title="Nusantara",RCTI | V+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+##     MNCTV | Visionplus     ##
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://gaatvplus.000webhostapp.com/Img/mnctv.png" group-title="Nusantara",MNCTV | V+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+##     MNCTV | RCTI+     ##
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://gaatvplus.000webhostapp.com/Img/mnctv.png" group-title="Nusantara",MNCTV | R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+##     GTV     ##
+#EXTINF:-1 group-title="Nusantara" tvg-id="GTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/gtv.png",GTV | ER
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+
+##     GTV | Visionplus     ##
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://gaatvplus.000webhostapp.com/Img/gtv.png" group-title="Nusantara",GTV | V+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
