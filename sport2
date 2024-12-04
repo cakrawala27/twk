@@ -1,0 +1,115 @@
+##     BeIN Sports 1     ##
+#EXTINF:-1 group-title="Sports" tvg-id="BeINSports1.id" tvg-logo="https://gaanetwork.com/Img/beinsports.png",BeIN Sports 1
+https://stream-bein1.sports.api.com/live/beinsports1.m3u8
+
+##     BeIN Sports 2     ##
+#EXTINF:-1 group-title="Sports" tvg-id="BeINSports2.id" tvg-logo="https://gaanetwork.com/Img/beinsports.png",BeIN Sports 2
+https://stream-bein2.sports.api.com/live/beinsports2.m3u8
+
+##     ESPN     ##
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.id" tvg-logo="https://gaanetwork.com/Img/espn.png",ESPN
+https://espn-live-api.stream/espn.m3u8
+
+##     Fox Sports 1     ##
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSports1.id" tvg-logo="https://gaanetwork.com/Img/foxsports.png",Fox Sports 1
+https://foxsports-live-api.stream/foxsports1.m3u8
+
+##     Sky Sports 1     ##
+#EXTINF:-1 group-title="Sports" tvg-id="SkySports1.id" tvg-logo="https://gaanetwork.com/Img/skysports.png",Sky Sports 1
+https://skysports1-live.stream/sky1.m3u8
+
+##     Sky Sports 2     ##
+#EXTINF:-1 group-title="Sports" tvg-id="SkySports2.id" tvg-logo="https://gaanetwork.com/Img/skysports.png",Sky Sports 2
+https://skysports2-live.stream/sky2.m3u8
+
+##     NBC Sports     ##
+#EXTINF:-1 group-title="Sports" tvg-id="NBCSports.id" tvg-logo="https://gaanetwork.com/Img/nbcsports.png",NBC Sports
+https://nbcsports-live.stream/nbcsports.m3u8
+
+##     Golf Channel     ##
+#EXTINF:-1 group-title="Sports" tvg-id="GolfChannel.id" tvg-logo="https://gaanetwork.com/Img/golfchannel.png",Golf Channel
+https://golfchannel-live.stream/golfchannel.m3u8
+
+##     Eurosport 1     ##
+#EXTINF:-1 group-title="Sports" tvg-id="Eurosport1.id" tvg-logo="https://gaanetwork.com/Img/eurosport.png",Eurosport 1
+https://eurosport1-live.stream/eurosport1.m3u8
+
+##     Eurosport 2     ##
+#EXTINF:-1 group-title="Sports" tvg-id="Eurosport2.id" tvg-logo="https://gaanetwork.com/Img/eurosport.png",Eurosport 2
+https://eurosport2-live.stream/eurosport2.m3u8
+
+##     RMC Sport     ##
+#EXTINF:-1 group-title="Sports" tvg-id="RMCSport.id" tvg-logo="https://gaanetwork.com/Img/rmcsport.png",RMC Sport
+https://rmcsport-live.stream/rmcsport.m3u8
+
+##     Sport TV     ##
+#EXTINF:-1 group-title="Sports" tvg-id="SportTV.id" tvg-logo="https://gaanetwork.com/Img/sporttv.png",Sport TV
+https://sporttv-live.stream/sporttv.m3u8
+
+##     La Liga TV     ##
+#EXTINF:-1 group-title="Sports" tvg-id="LaLigaTV.id" tvg-logo="https://gaanetwork.com/Img/laligatv.png",La Liga TV
+https://laligatv-live.stream/laligatv.m3u8
+
+##     BT Sport 1     ##
+#EXTINF:-1 group-title="Sports" tvg-id="BTSport1.id" tvg-logo="https://gaanetwork.com/Img/btsport.png",BT Sport 1
+https://btsport1-live.stream/btsport1.m3u8
+
+##     BT Sport 2     ##
+#EXTINF:-1 group-title="Sports" tvg-id="BTSport2.id" tvg-logo="https://gaanetwork.com/Img/btsport.png",BT Sport 2
+https://btsport2-live.stream/btsport2.m3u8
+
+##     Star Sports     ##
+#EXTINF:-1 group-title="Sports" tvg-id="StarSports.id" tvg-logo="https://gaanetwork.com/Img/starsports.png",Star Sports
+https://starsports1-live.stream/starsports.m3u8
+
+##     Discovery Sports     ##
+#EXTINF:-1 group-title="Sports" tvg-id="DiscoverySports.id" tvg-logo="https://gaanetwork.com/Img/discoverysports.png",Discovery Sports
+https://discovery-sports-live.stream/discoverysports.m3u8
+
+##     NBCSN     ##
+#EXTINF:-1 group-title="Sports" tvg-id="NBCSN.id" tvg-logo="https://gaanetwork.com/Img/nbcsn.png",NBCSN
+https://nbcsn-live-api.stream/nbcsn.m3u8
+
+##     Fox Sports 2     ##
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSports2.id" tvg-logo="https://gaanetwork.com/Img/foxsports.png",Fox Sports 2
+https://foxsports2-live.stream/foxsports2.m3u8
+
+##     Sportsnet     ##
+#EXTINF:-1 group-title="Sports" tvg-id="Sportsnet.id" tvg-logo="https://gaanetwork.com/Img/sportsnet.png",Sportsnet
+https://sportsnet-live.stream/sportsnet.m3u8
+
+##     ESPN 2     ##
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN2.id" tvg-logo="https://gaanetwork.com/Img/espn.png",ESPN 2
+https://espn2-live.stream/espn2.m3u8
+
+##     ESPN 3     ##
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN3.id" tvg-logo="https://gaanetwork.com/Img/espn.png",ESPN 3
+https://espn3-live.stream/espn3.m3u8
+
+##     FS1     ##
+#EXTINF:-1 group-title="Sports" tvg-id="FS1.id" tvg-logo="https://gaanetwork.com/Img/fs1.png",FS1
+https://fs1-live-api.stream/fs1.m3u8
+
+##     FS2     ##
+#EXTINF:-1 group-title="Sports" tvg-id="FS2.id" tvg-logo="https://gaanetwork.com/Img/fs2.png",FS2
+https://fs2-live-api.stream/fs2.m3u8
+
+##     ESPN Deportes     ##
+#EXTINF:-1 group-title="Sports" tvg-id="ESPNDeportes.id" tvg-logo="https://gaanetwork.com/Img/espndeportes.png",ESPN Deportes
+https://espndeportes-live.stream/espndeportes.m3u8
+
+##     Ten Sports     ##
+#EXTINF:-1 group-title="Sports" tvg-id="TenSports.id" tvg-logo="https://gaanetwork.com/Img/tensports.png",Ten Sports
+https://tensports-live.stream/tensports.m3u8
+
+##     Fox Soccer Plus     ##
+#EXTINF:-1 group-title="Sports" tvg-id="FoxSoccerPlus.id" tvg-logo="https://gaanetwork.com/Img/foxsoccerplus.png",Fox Soccer Plus
+https://foxsoccerplus-live.stream/foxsoccerplus.m3u8
+
+##     NFL Network     ##
+#EXTINF:-1 group-title="Sports" tvg-id="NFLNetwork.id" tvg-logo="https://gaanetwork.com/Img/nflnetwork.png",NFL Network
+https://nflnetwork-live-api.stream/nflnetwork.m3u8
+
+##     MLB Network     ##
+#EXTINF:-1 group-title="Sports" tvg-id="MLBNetwork.id" tvg-logo="https://gaanetwork.com/Img/mlbnetwork.png",MLB Network
+https://mlbnetwork-live.stream/mlbnetwork.m3u8
