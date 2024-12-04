@@ -1,0 +1,68 @@
+#EXTM3U
+
+##     TVRI Nasional     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="TVRINasional.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/tvri.png",TVRI Nasional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+##     Metro TV     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="MetroTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/metrotv.png",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+##     CNN Indonesia     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="CNNIndonesia.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/cnnid.png",CNN ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+##     CNBC Indonesia     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="CNBCIndonesia.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/cnbcid.png",CNBC ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+##     TransTV     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="TransTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/transtv.png",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+##     Trans7     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="Trans7.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/trans7.png",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+##     Moji     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="Moji.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/indosiar.png",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+##     RCTI     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="RCTI.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/rcti.png",RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+##     SCTV SD     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="SCTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/sctv.png",SCTV SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+##     MNCTV | RCTI+     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="MNCTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/mnctv.png",MNCTV | R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+##     GTV     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="GTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/gtv.png",GTV | ER
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
+
+##     ANTV     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="ANTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/antv.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+##     iNews | RCTI+     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="iNews.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/iNews.png",iNews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
