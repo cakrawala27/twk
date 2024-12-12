@@ -1,0 +1,23 @@
+##     SCTV     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="SCTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/sctv.png",SCTV
+https://vidcdn.akamaized.net/hls/sctv/sctv.m3u8
+
+##     Indosiar     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/indosiar.png",Indosiar
+https://streaming.indosiar.com/indosiar.m3u8
+
+##     ANTV     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="ANTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/antv.png",ANTV
+https://live.antv.tv/antv.m3u8
+
+##     Metro TV     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="MetroTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/metro.png",Metro TV
+https://metrotv.akamaized.net/streaming/metrotv/master.m3u8
+
+##     Global TV     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="GlobalTV.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/globaltv.png",Global TV
+https://globaltvid-live.akamaized.net/hls/stream.m3u8
+
+##     TV One     ##
+#EXTINF:-1 group-title="Nasional" tvg-id="TVOne.id" tvg-logo="https://gaatvplus.000webhostapp.com/Img/tvone.png",TV One
+https://tvone.s3-ap-southeast-1.amazonaws.com/hls/tvone.m3u8
