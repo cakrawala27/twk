@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.0,
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD-avc1_2499968-3139443930000000.mp4
+#EXTINF:5.0,
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD-avc1_2499968-3139443930500000.mp4
+#EXTINF:5.0,
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD-avc1_2499968-3139443931000000.mp4
+#EXTINF:5.0,
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD-avc1_2499968-3139443931500000.mp4
+#EXT-X-ENDLIST
